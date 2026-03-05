@@ -123,4 +123,3 @@ elif menu == "Variance Report":
         st.warning("Backend API not running")
 
 st.markdown("---")
-st.caption("Hackathon Prototype | Streamlit Frontend")
